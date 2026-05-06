@@ -1,0 +1,154 @@
+第一阶段：基础补齐（第1-3周）
+
+第1周：Python基础
+
+• 官方文档：Python 官方入门教程（最权威）
+https://docs.python.org/zh-cn/3/tutorial/
+
+• 视频：黑马程序员 Python 入门（适合后端转语言，通俗易懂）
+B站直接搜：黑马 Python 基础
+
+• 练习：LeetCode 简单题 10 道（数组、字符串）
+
+第2周：数据分析工具
+
+• Numpy：菜鸟教程 Numpy
+https://www.runoob.com/numpy/numpy-tutorial.html
+
+• Pandas：Pandas 官方10分钟入门
+https://pandas.pydata.org/docs/user_guide/10min.html
+
+• Matplotlib：官方示例库
+https://matplotlib.org/stable/gallery/index.html
+
+第3周：机器学习基础
+
+• 文档：Scikit-learn 官方入门教程
+https://scikit-learn.org/stable/tutorial/basic/tutorial.html
+
+• 视频：吴恩达《机器学习》前6章（只看概念，跳过公式）
+B站搜：吴恩达 机器学习
+
+第二阶段：大模型基础与提示工程（第4-6周）
+
+第4周：大模型核心概念
+
+• 必读文章：Transformer 图解（最通俗版本）
+https://jalammar.github.io/illustrated-transformer/
+
+• 视频：李沐 大模型入门
+B站搜：动手学大模型
+
+第5周：提示工程Prompt
+
+• 官方指南：OpenAI Prompt 指南（通用，所有模型通用）
+https://platform.openai.com/docs/guides/prompt-engineering
+
+• 中文实战：字节《扣子》官方提示词教程
+https://www.coze.cn/docs/guides/prompt_engineering
+
+第6周：大模型接口调用入门
+
+• 通义千问API文档（阿里云，国内最推荐）
+https://help.aliyun.com/document_detail/2576819.html
+
+• SSE流式输出教程（后端必看）
+https://developer.mozilla.org/zh-CN/docs/Web/API/Server-sent_events/Using_server-sent_events
+
+第三阶段：核心技能 RAG+Agent+向量库（第7-12周）
+
+第7周：向量与嵌入基础
+
+• Embedding 入门
+https://cloud.tencent.com/developer/article/2348952
+
+• BGE 模型文档（国内最强开源嵌入模型）
+https://github.com/FlagOpen/FlagEmbedding
+
+第8周：向量数据库入门
+
+• Milvus 官方快速入门
+https://milvus.io/docs/quickstart.md
+
+• FAISS 官方教程
+https://github.com/facebookresearch/faiss/wiki/Getting-started
+
+第9-10周：RAG全流程开发
+
+• LangChain 官方文档（最核心）
+https://python.langchain.com/docs/get_started/introduction
+
+• RAG 入门实战教程
+https://python.langchain.com/docs/tutorials/rag/
+
+• RAG优化指南
+https://www.langchain.com/blog/rag-from-scratch
+
+第11-12周：Agent智能体开发
+
+• LangChain Agent 官方教程
+https://python.langchain.com/docs/modules/agents/
+
+• Function Call 官方指南
+https://platform.openai.com/docs/guides/function-calling
+
+第四阶段：Java AI生态+工程化部署（第13-16周）
+
+第13周：Spring AI 入门
+
+• Spring AI 官方文档（Java开发者首选）
+https://spring.io/projects/spring-ai
+
+• Spring AI 快速开始
+https://spring.io/blog/2024/03/18/introducing-spring-ai
+
+第14周：模型本地部署
+
+• Ollama 官网
+https://ollama.com/
+
+• vLLM 官方文档
+https://docs.vllm.ai/en/latest/
+
+第15周：AI系统工程化
+
+• Spring Cloud 微服务（复习）
+https://spring.io/projects/spring-cloud
+
+• API网关设计
+https://docs.spring.io/spring-cloud-gateway/reference/spring-cloud-gateway.html
+
+第16周：容器化与监控
+
+• Docker 官方入门
+https://docs.docker.com/get-started/
+
+• Prometheus + Grafana 监控
+https://prometheus.io/docs/introduction/overview/
+
+第五阶段：实战项目+求职准备（第17-24周）
+
+项目1：个人知识库问答
+
+• 参考项目：LangChain RAG 完整示例
+https://github.com/langchain4j/langchain4j-examples
+
+项目2：企业级AI客服系统
+
+• 参考项目：Spring AI + RAG 实战
+https://github.com/spring-projects/spring-ai-examples
+
+项目3：Agent工具平台
+
+• 参考项目：AutoGPT 简化版
+https://github.com/Significant-Gravitas/AutoGPT
+
+面试资料
+
+• RAG面试100问
+https://github.com/frank-cq/learn-llm/blob/main/interview/rag-interview.md
+
+• Java后端转AI简历模板
+https://github.com/AI-Application-Engineer/AI-Resume
+
+
